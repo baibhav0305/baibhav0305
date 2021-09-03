@@ -24,4 +24,4 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baibhav0305&show_icons=true&theme=merko&locale=en&layout=compact" alt="baibhav0305" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baibhav0305&show_icons=true&theme=react&locale=en&layout=compact" alt="baibhav0305" /></p>
