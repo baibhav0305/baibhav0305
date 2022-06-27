@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baibhav Kumar Panda</h1>
 <p align="center">A Computer Engineering undergrad having keen interest in Web and Android Development</p>
 
-- 🌱 I’m currently learning **React** and **Solidity**
+- 🌱 I’m currently learning **React** and **Express**
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
