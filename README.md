@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baibhav Kumar Panda</h1>
-<p align="center">A Computer Engineering undergrad having keen interest in Web and Android Development</p>
+<p align="center">A Computer Engineering undergrad having keen interest in Web Development & Machine Learning</p>
 
 - 🌱 I’m currently trying **Backend Development** and **Machine Learning**
 
